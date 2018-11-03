@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SpotifyTrial</string>
+        <string name="play_something" />
+        <string name="play_button">Play</string>
+        <string name="next_button">Next</string>
+        <string name="previous_song">Prev</string>
+        <string name="shuffle_button">Shuffle</string>
+        <string name="repeat_button">Repeat</string>
+        <string name="lyrics">Lyrics</string>
+        <string name="playlist">To Playlist</string>
+</resources>
