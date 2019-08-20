@@ -27,7 +27,7 @@ import e.chuy7.spotifytrial.R;
 
 public class MusicActivity extends AppCompatActivity {
 
-    private static final String MUSIC_MATCH_KEY = "f436cceef0265e953469f86a83afd16e";
+    private static final String MUSIC_MATCH_KEY = "";
 
     private TextView lyricsText;
     private MusixMatch musixMatch;
